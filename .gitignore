@@ -1,0 +1,13 @@
+# Local environment and editor settings
+.venv/
+.idea/
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and OS metadata
+.env
+.env.*
+.DS_Store
